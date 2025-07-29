@@ -28,3 +28,20 @@ This project performs an end-to-end analysis of the 2022 T20 World Cup match dat
 ![image alt](https://github.com/Veena-pk/T-20-Worldcup-Data-Analysis/blob/bc23b3d2cc3977648cb490d766ae7ac286d0b570/Final%2011.jpg)
 
 ![image alt](https://github.com/Veena-pk/T-20-Worldcup-Data-Analysis/blob/ce8e210f262922442369f76cfd47a4e94171230f/Openers.jpg)
+
+## About the Project
+This project showcases my ability to work with real-world data, perform data transformation using Python, and build professional, interactive dashboards in Power BI. It highlights not only my technical skills but also my focus on clean design, meaningful metrics, and user-friendly visuals. I'm open to feedback and always looking to improve and enhance this work further.
+
+## What I Learned
+
+How to transform complex JSON data into structured formats suitable for analysis.
+
+Best practices for cleaning and preparing real-world datasets.
+
+Writing DAX measures and calculated columns to derive advanced cricket metrics.
+
+Designing interactive and visually appealing dashboards in Power BI.
+
+Gaining a deeper understanding of cricket performance analysis and how data can support strategic decisions.
+
+The importance of user-focused design in presenting data insights clearly and effectively.
