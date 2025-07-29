@@ -21,3 +21,5 @@ This project performs an end-to-end analysis of the 2022 T20 World Cup match dat
 **Role-Based Insights** – Identified top performers in specific roles: openers, middle-order batters, finishers, all-rounders, and specialist fast bowlers.
 
 **Team Selection Outcome** – The final team selected using Power BI insights showed a 90% predicted chance of victory based on historical match data. 
+
+## Power BI Dashboard Images
