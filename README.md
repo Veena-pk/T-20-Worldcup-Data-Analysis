@@ -4,7 +4,9 @@ This project performs an end-to-end analysis of the 2022 T20 World Cup match dat
 
 ## Tools & Technologies
 **Python:** Data cleaning, transformation, and CSV generation in Jupyter Notebook
+
 **Pandas & Numpy:** Data manipulation & preprocessing
+
 **Power BI :** Data visualization & Interactive dashboard building
 
 ## Key Project Highlights
@@ -24,3 +26,5 @@ This project performs an end-to-end analysis of the 2022 T20 World Cup match dat
 
 ## Power BI Dashboard Images
 ![image alt](https://github.com/Veena-pk/T-20-Worldcup-Data-Analysis/blob/bc23b3d2cc3977648cb490d766ae7ac286d0b570/Final%2011.jpg)
+
+![image alt](https://github.com/Veena-pk/T-20-Worldcup-Data-Analysis/blob/ce8e210f262922442369f76cfd47a4e94171230f/Openers.jpg)
