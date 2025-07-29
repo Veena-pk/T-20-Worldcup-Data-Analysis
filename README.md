@@ -34,14 +34,14 @@ This project showcases my ability to work with real-world data, perform data tra
 
 ## What I Learned
 
-How to transform complex JSON data into structured formats suitable for analysis.
+1. How to transform complex JSON data into structured formats suitable for analysis.
 
-Best practices for cleaning and preparing real-world datasets.
+2. Best practices for cleaning and preparing real-world datasets.
 
-Writing DAX measures and calculated columns to derive advanced cricket metrics.
+3. Writing DAX measures and calculated columns to derive advanced cricket metrics.
 
-Designing interactive and visually appealing dashboards in Power BI.
+4. Designing interactive and visually appealing dashboards in Power BI.
 
-Gaining a deeper understanding of cricket performance analysis and how data can support strategic decisions.
+5. Gaining a deeper understanding of cricket performance analysis and how data can support strategic decisions.
 
-The importance of user-focused design in presenting data insights clearly and effectively.
+6. The importance of user-focused design in presenting data insights clearly and effectively.
