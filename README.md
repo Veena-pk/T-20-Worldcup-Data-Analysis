@@ -23,3 +23,4 @@ This project performs an end-to-end analysis of the 2022 T20 World Cup match dat
 **Team Selection Outcome** – The final team selected using Power BI insights showed a 90% predicted chance of victory based on historical match data. 
 
 ## Power BI Dashboard Images
+![image alt](https://github.com/Veena-pk/T-20-Worldcup-Data-Analysis/blob/bc23b3d2cc3977648cb490d766ae7ac286d0b570/Final%2011.jpg)
